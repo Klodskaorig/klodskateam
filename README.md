@@ -1,1 +1,3 @@
-# klodskateam.github.io
+# KlodskaTeam Website files
+
+-- http://klodskateam.rf.gd/ --
